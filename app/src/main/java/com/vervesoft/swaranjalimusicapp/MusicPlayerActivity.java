@@ -6,7 +6,6 @@ import android.media.MediaPlayer;
 import android.media.PlaybackParams;
 import android.os.Bundle;
 import android.os.Handler;
-import android.util.Log;
 import android.widget.ImageView;
 import android.widget.SeekBar;
 import android.widget.TextView;
